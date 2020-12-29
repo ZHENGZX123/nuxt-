@@ -1,0 +1,21 @@
+{
+  "name": "intelligentlamppost",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.6.5",
+    "antd": "^4.9.4",
+    "axios": "^0.21.0",
+    "babel-plugin-import": "^1.13.3",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {}
+}
